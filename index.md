@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+Shakra Batool
+- Home -
+Projects
+CV
+Photo of Me
+Research Interests
+Medical Image Proccessing, Machine Learning, Deep Learning , Data mining, Cancer Detection , Classification ,Segmentation
 
-You can use the [editor on GitHub](https://github.com/Shakra100/shakra/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Education
+B.S Bioinformatics , , COMSATS , Pakistan
+CGPA: 3.46 / 4.0
+Thesis: Breast Cancer Detection And Segmentation: an application which has two modules one for classifiction of tumor which takes histopathology image and classify it into malignant and benign while second module takes image as input and segment and count the nuclei present in that image. It facilitate pathologist to detect the tumor location and scaling efficiently and within less time .
+Advanced Courses Taken: Artificial Intelligence, Object Oriented Programming, Modern Programming Languages , Statistics, Bioinformatics Database Development
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Shakra100/shakra/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contact Information
+Email:	shakra[dot]batool123[at]gmail.com
+Address:	H# MCB 8/45 Mohalla AnwarAbad, Chakwal, Pakistan
