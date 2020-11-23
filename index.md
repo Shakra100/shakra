@@ -10,7 +10,7 @@ Medical Image Proccessing, Machine Learning, Deep Learning , Data mining, Cancer
 
 
 Education
-B.S Bioinformatics , , COMSATS , Pakistan
+B.S Bioinformatics , COMSATS , Pakistan
 CGPA: 3.46 / 4.0
 Thesis: Breast Cancer Detection And Segmentation: an application which has two modules one for classifiction of tumor which takes histopathology image and classify it into malignant and benign while second module takes image as input and segment and count the nuclei present in that image. It facilitate pathologist to detect the tumor location and scaling efficiently and within less time .
 Advanced Courses Taken: Artificial Intelligence, Object Oriented Programming, Modern Programming Languages , Statistics, Bioinformatics Database Development
