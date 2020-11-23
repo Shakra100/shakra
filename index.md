@@ -2,7 +2,7 @@
 ## - Home -
 ## [Projects](https://github.com/Shakra100/shakra/blob/gh-pages/projects.html)
 ## [CV](https://github.com/Shakra100/shakra/blob/gh-pages/shakra_cv.pdf)
-! [image](https://github.com/Shakra100/shakra/blob/gh-pages/shakra_cv.pdf)
+![image](https://github.com/Shakra100/shakra/blob/gh-pages/mine.jpg)
 ## Research Interests
 Medical Image Proccessing, Machine Learning, Deep Learning , Data mining, Cancer Detection , Classification ,Segmentation
 
@@ -23,3 +23,4 @@ Artificial Intelligence, Object Oriented Programming, Modern Programming Languag
 ## Contact Information
 Email:	shakra[dot]batool123[at]gmail.com
 Address:	H# MCB 8/45 Mohalla AnwarAbad, Chakwal, Pakistan
+!
