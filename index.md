@@ -2,7 +2,7 @@
 ## - Home -
 ## [Projects](https:///Shakra100.github.io/shakra/projects.html)
 ## [CV](shakra_cv.pdf)
-<img src="https://Shakra100.github.io/shakra/mine.jpg" alt="Photo of Me" width="235" height="205"
+<img src="https://Shakra100.github.io/shakra/mine.JPG" alt="Photo of Me" width="235" height="205"
        class="inset-img">
 ## Research Interests
 Medical Image Proccessing, Machine Learning, Deep Learning , Data mining, Cancer Detection , Classification ,Segmentation
