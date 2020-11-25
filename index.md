@@ -1,6 +1,6 @@
 ## Shakra Batool
 ## - Home -
-## [Projects](https://github.com/Shakra100/shakra/blob/gh-pages/projects.html)
+## [Projects](https:///Shakra100.github.io/shakra/projects.html)
 ## [CV](shakra_cv.pdf)
 ## Research Interests
 Medical Image Proccessing, Machine Learning, Deep Learning , Data mining, Cancer Detection , Classification ,Segmentation
