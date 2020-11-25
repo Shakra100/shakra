@@ -1,6 +1,6 @@
 ## Shakra Batool
 ## - Home -
-## <a href="about.html" title="About Me">About Me</a>
+## <a href="projects.html" title="Projects">About Me</a>
 ## [CV](shakra_cv.pdf)
 ## Research Interests
 Medical Image Proccessing, Machine Learning, Deep Learning , Data mining, Cancer Detection , Classification ,Segmentation
