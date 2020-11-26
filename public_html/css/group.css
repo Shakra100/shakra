@@ -1,0 +1,210 @@
+/* Space out content a bit */
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background: url(/img/crossword.png) repeat 0 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Raleway', Helvetica, Arial, sans-serif;
+    font-weight:600;
+    letter-spacing:1px;
+}
+
+a {
+    color:#554D7D;
+    font-weight:500;
+}
+
+p, div {
+    font-family: 'Raleway', Helvetica, Arial, sans-serif;
+    font-weight:400;
+    color:#444;
+}
+
+/* Customize first page */
+.myname {
+    font-size:2.5em;
+    font-weight:400;
+    font-family: 'Quattrocento', Georgia, Times, serif;
+    color:#554D7D;
+    text-align:center;
+    text-transform: uppercase;
+    letter-spacing:2px;
+}
+
+/* Make sure abstract does not disply by default*/
+.abstract{
+    display:none;
+}
+
+/* customize wells */
+.well{
+    background-color:#e6e6e6;
+    border: 0px solid #aaa;
+}
+
+/* Everything but the jumbotron gets side spacing for mobile first views */
+.header,
+.footer {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.header {
+
+}
+
+.inset-img {
+    padding: 0px;
+    align: center;
+    margin-bottom:15px;
+}
+
+/* Custom page footer */
+.footer {
+  padding-top: 19px;
+  color: #888;
+  border-top: 1px solid #554D7D;
+  text-align: center;
+}
+.footer p {
+  margin: 0.1em 0;
+  color: #554D7D;
+  font-size: 12px;
+}
+.footer a:link, .footer a:visited {
+  color: #554D7D;
+}
+
+/* Customize table */
+.table-no-border>thead>tr>th, 
+.table-no-border>tbody>tr>th, 
+.table-no-border>tfoot>tr>th, 
+.table-no-border>thead>tr>td, 
+.table-no-border>tbody>tr>td, 
+.table-no-border>tfoot>tr>td {
+  border: none;
+}
+
+.table-condensed {
+    width: auto;
+    margin-bottom:0px;
+}
+.table-condensed > thead > tr > th,
+.table-condensed > tbody > tr > th,
+.table-condensed > tfoot > tr > th,
+.table-condensed > thead > tr > td,
+.table-condensed > tbody > tr > td,
+.table-condensed > tfoot > tr > td {
+	padding: 5px;
+	font-size: 12px;
+}
+
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+  p, li, tr {
+      font-size:16px;
+  }
+  /* Remove the padding we set earlier */
+  .header,
+  .footer {
+      padding-left: 0;
+      padding-right: 0;
+  }
+  /* Space out the masthead */
+  .header {
+      margin-bottom: 30px;
+  }
+  .footer {
+      margin-top: 30px;
+  }
+  .inset-img {
+      padding:0px;
+      padding-right:20px;
+      margin-bottom:5px;
+  }
+  .myname {
+	font-size: 4em;
+	letter-spacing: 5px;
+  }
+  /* Remove the bottom border on the jumbotron for visual effect */
+  .jumbotron {
+    border-bottom: 0;
+  }
+  .lead {
+      font-size:1.8em;
+      font-weight:400;
+      margin-bottom: 10px;
+  }
+}
+
+
+/* Customize container */
+@media (min-width: 768px) {
+  .container {
+    max-width: 730px;
+  }
+}
+.container-narrow > hr {
+  margin: 30px 0;
+}
+
+/* Customize tabs */
+/* .tabWrapper > div { */
+/*     border: 1px solid #ddd; */
+/*     background: #fff; */
+/*     border-radius: 0 0 4px 4px; */
+/*     margin-top: -1px; */
+/*     border-top:transparent; */
+/* } */
+.nav {
+  margin-bottom: 0;
+  padding-left: 0;
+  list-style: none;
+  border-top: 1px solid #554D7D;  
+  border-bottom: 1px solid #554D7D;  
+  letter-spacing:1px;
+  font-weight:500;
+  text-transform: uppercase;
+}
+.nav-pills > li > a {
+  border-radius: 0px;
+  color:#554D7D;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
+  font-size:12px;
+}
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:hover,
+.nav-pills > li.active > a:focus {
+    font-weight:500;
+    background-color:transparent;
+    color:#554D7D;
+}
+
+/* Slightly better-looking header on mobile. */
+@media screen and (max-width: 767px) {
+    .nav-pills {
+        display: block;
+        margin: 0 auto 1em;
+    }
+}
+
+/* Front page news. */
+ul.news .date {
+    color: #999;
+    font-weight: bold;
+    display: block;
+}
+ul.news > li {
+    margin-top: .5em;
+}
+ul.news .shortnews .date {
+    float: left;
+    margin-right: 1em;
+}
+ul.news .bloglink a {
+    font-size: 1.4em;
+}
+
